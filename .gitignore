@@ -1,0 +1,18 @@
+# Java build output
+*.class
+out/
+target/
+bin/
+# IntelliJ / IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+# Eclipse / NetBeans
+.classpath
+.project
+.settings/
+nbproject/private/
+# OS / misc
+.DS_Store
+*.log
